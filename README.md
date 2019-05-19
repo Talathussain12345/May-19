@@ -1,4 +1,5 @@
 # Mockups May 14
+ this site is ready to be published at https://talathussain12345.github.io/May-19/.
 
 Check the mockups folder and create a pixel perfect clone! 
 
